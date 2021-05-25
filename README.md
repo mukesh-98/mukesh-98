@@ -24,13 +24,13 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 
 
 <p align="center">
-<img src="./src/logos/html5-original.svg" height="auto" width="40">
-<img src="./src/logos/css3-original.svg" height="auto" width="40">
-<img src="./src/logos/bootstrap-plain.svg" width="40">
-<img src="./src/logos/javascript-plain.svg" height="auto" width="40">
-<img src="./src/logos/jquery-plain.svg" height="auto" width="40">
-<img src="./src/logos/angular-icon-1.svg" height="auto" width="40">
-<img src="./src/logos/react-original.svg" height="auto" width="40">
+<img src="./src/logos/html5-original.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/css3-original.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/bootstrap-plain.svg" width="40" style="margin: 5px">
+<img src="./src/logos/javascript-plain.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/jquery-plain.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/angular-icon-1.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/react-original.svg" height="auto" width="40" style="margin: 5px">
 </p>
 
 
@@ -40,10 +40,10 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 
 <p align="center">
 
-<img src="./src/logos/visual-studio-code-1.svg" height="auto" width="40">
-<img src="./src/logos/webstorm.svg" height="auto" width="40">
-<img src="./src/logos/git.svg" height="auto" width="40">
-<img src="./src/logos/github-original.svg" height="auto" width="40">
+<img src="./src/logos/visual-studio-code-1.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/webstorm-seeklogo.com.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/git.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/github-original.svg" height="auto" width="40" style="margin: 5px">
 </p>
 
 
@@ -51,10 +51,10 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 
 
 <p align="center">
-<img src="./src/logos/ionic.svg" height="auto" width="40">
-<img src="./src/logos/python-5.svg" height="auto" width="40">
-<img src="./src/logos/django.svg" height="auto" width="40">
-<img src="./src/logos/flutter-logo.svg" height="auto" width="40">
+<img src="./src/logos/ionic.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/python-5.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/django.svg" height="auto" width="40" style="margin: 5px">
+<img src="./src/logos/flutter-logo.svg" height="auto" width="40" style="margin: 5px">
 </p>
 
 
