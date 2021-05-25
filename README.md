@@ -1,6 +1,6 @@
 <p align="center">
 
-![](./src/sd.gif)
+<img src="./src/sd.gif"/>
 
 </p>
 
