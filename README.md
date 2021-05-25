@@ -16,9 +16,13 @@ I am **Mukesh Parmar**, an enthusiast **learner** and **programmer** with the me
 Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**, **`JS`**, and framework like **`REACT`** & **`ANGULAR`** 
 
 ---
+
 ##Skills
 
+
 ###Languages & Frameworks :
+
+
 <p align="center">
 <img src="./src/logos/html5-original.svg" height="auto" width="40">
 <img src="./src/logos/css3-original.svg" height="auto" width="40">
@@ -29,7 +33,11 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 <img src="./src/logos/react-original.svg" height="auto" width="40">
 </p>
 
+
+
 ###Software & Tools :
+
+
 <p align="center">
 
 <img src="./src/logos/visual-studio-code-1.svg" height="auto" width="40">
@@ -38,7 +46,10 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 <img src="./src/logos/github-original.svg" height="auto" width="40">
 </p>
 
+
 ### Technologies i know :
+
+
 <p align="center">
 <img src="./src/logos/ionic.svg" height="auto" width="40">
 <img src="./src/logos/python-5.svg" height="auto" width="40">
