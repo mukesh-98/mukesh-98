@@ -63,3 +63,13 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 <img src="./src/logos/nodejs-icon.svg" height="auto" width="40" style="margin: 5px">
 <img src="./src/logos/graphql.svg" height="auto" width="40" style="margin: 5px">
 </p>
+
+
+<details >
+<summary>GeekyAmitesh's GitHub stats</summary>
+<p align="center">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=mukesh-98"/>
+  </a>
+</p>
+</details>
