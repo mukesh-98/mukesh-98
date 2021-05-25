@@ -9,7 +9,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://mukesh-98.github.io/mukesh.io/)](https://mukesh-98.github.io/mukesh.io/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/parmar_mukesh98/)](https://www.instagram.com/parmar_mukesh98/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Mukesh-Parmar/100006872439745/)](https://www.facebook.com/people/Mukesh-Parmar/100006872439745/)
 ---
-##Introduction.
+## Introduction.
 
 
 I am **Mukesh Parmar**, an enthusiast **learner** and **programmer** with the mentality of writing **minimal code** with **effective execution**.
@@ -17,10 +17,10 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 
 ---
 
-##Skills
+## Skills
 
 
-###Languages & Frameworks :
+### Languages & Frameworks :
 
 
 <p align="center">
@@ -35,7 +35,7 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 
 
 
-###Software & Tools :
+### Software & Tools :
 
 
 <p align="center">
