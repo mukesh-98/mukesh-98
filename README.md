@@ -15,11 +15,12 @@
 I am **Mukesh Parmar**, an enthusiast **learner** and **programmer** with the mentality of writing **minimal code** with **effective execution**.
 Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**, **`JS`**, and framework like **`REACT`** & **`ANGULAR`** 
 
+
 ---
 ## Skills
 
 <p align="center">
-    <img src="./src/dd.gif" width="50%"/>
+    <img src="./src/dd.gif" width="20%"/>
 </p>
 
 ### 😁 Languages & Frameworks : 
