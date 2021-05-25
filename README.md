@@ -16,11 +16,12 @@ I am **Mukesh Parmar**, an enthusiast **learner** and **programmer** with the me
 Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**, **`JS`**, and framework like **`REACT`** & **`ANGULAR`** 
 
 ---
-
 ## Skills
 
 
-### Languages & Frameworks :
+### 😁 Languages & Frameworks : 
+
+
 
 
 <p align="center">
@@ -35,7 +36,7 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 
 
 
-### Software & Tools :
+### 🧰 Software & Tools :
 
 
 <p align="center">
@@ -47,7 +48,7 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 </p>
 
 
-### Technologies i know :
+### ✳️ Technologies i know :
 
 
 <p align="center">
@@ -57,16 +58,16 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 <img src="./src/logos/flutter-logo.svg" height="auto" width="30" style="margin: 5px">
 </p>
 
-### Interested to learn :
+### 😋 Interested to learn :
 
 <p align="center">
 <img src="./src/logos/nodejs-icon.svg" height="auto" width="40" style="margin: 5px">
 <img src="./src/logos/graphql.svg" height="auto" width="40" style="margin: 5px">
 </p>
 
-
+---
 <details >
-<summary>GeekyAmitesh's GitHub stats</summary>
+<summary> ✔️ My GitHub stats</summary>
 <p align="center">
   <a href="">
     <img src="https://github-readme-stats.vercel.app/api?username=mukesh-98"/>
