@@ -18,6 +18,9 @@ Currently, i am a frontend developer with the skills like **`HTML`**, **`CSS`**,
 ---
 ## Skills
 
+<p align="center">
+    <img src="./src/dd.gif" width="50%"/>
+</p>
 
 ### 😁 Languages & Frameworks : 
 
